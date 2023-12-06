@@ -1,0 +1,4 @@
+cambiar rutas del ps1, en donde tenemos alojado el asistente, para asi ejecutarlo con power shell.
+
+importar base de datos a mysql workbench 8.0
+IMPORTANTE: configurar el env. del proyecto para ajustarlo a la base de datos.
